@@ -1,7 +1,6 @@
 // Server-side request handlers.
 // NOTE: intentionally insecure code to exercise Semgrep security rules.
 
-/* eslint-disable */
 import { exec } from "child_process";
 import * as crypto from "crypto";
 import * as fs from "fs";
