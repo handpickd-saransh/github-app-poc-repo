@@ -1,7 +1,6 @@
 // Order processing utilities.
 // NOTE: intentionally low-quality code to exercise SonarQube rules.
 
-/* eslint-disable */
 
 export interface Order {
   id: string;
